@@ -1,4 +1,13 @@
-## Hi there 👋
+## tech stack
+#### Backend
+
+#### Devops
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### FrontEnd
+
+#### Others
+
+
 
 <!--
 **typhoon1217/typhoon1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
