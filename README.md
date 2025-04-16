@@ -1,5 +1,5 @@
 ## 👋 About Me
-Backend developer passionate about solving real-world problems through efficient technical solutions. I focus on creating practical implementations that prioritize functionality and performance over cutting-edge innovation for its own sake.
+Backend developer focused on practical solutions over trendy technology. Java/Spring specialist with infrastructure optimization experience. Passionate about automating repetitive tasks and creating efficient development environments. Let's build something useful together.
 
 #### OS I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
