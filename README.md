@@ -1,3 +1,5 @@
+## 👋 About Me
+Backend developer passionate about solving real-world problems through efficient technical solutions. I focus on creating practical implementations that prioritize functionality and performance over cutting-edge innovation for its own sake.
 
 #### OS I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
