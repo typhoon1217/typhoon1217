@@ -3,8 +3,7 @@ Backend developer focused on practical solutions for problems. Java/Spring speci
 
 Btw I use arch
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1217&show_icons=true&locale=en alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typhoon1217&layout=nord&theme=dark"/>
 
 #### OS I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
