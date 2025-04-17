@@ -2,6 +2,7 @@
 Backend developer focused on practical solutions for problems. Java/Spring specialist with infrastructure optimization experience. Passionate about automating repetitive tasks and creating efficient development environments. Let's build something useful together.
 
 Btw I use arch
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 #### OS I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
