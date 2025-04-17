@@ -1,6 +1,8 @@
 ## 👋 About Me
 Backend developer focused on practical solutions for problems. Java/Spring specialist with infrastructure optimization experience. Passionate about automating repetitive tasks and creating efficient development environments. Let's build something useful together.
 
+Btw I use arch
+
 #### OS I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
