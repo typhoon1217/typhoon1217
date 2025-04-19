@@ -2,6 +2,8 @@
 
 > Backend developer crafting practical solutions with Java/Spring expertise and infrastructure optimization skills. Automating the mundane, optimizing the complex.
 
+I use arch (BTW)
+
 <div align="center">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=typhoon1217&layout=compact&theme=nord)](https://github.com/typhoon1217)
