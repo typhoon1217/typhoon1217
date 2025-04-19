@@ -2,7 +2,7 @@
 
 > Backend developer crafting practical solutions with Java/Spring expertise and infrastructure optimization skills. Automating the mundane, optimizing the complex.
 
-I use arch (BTW)
+> I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  (BTW)
 
 <div align="center">
   
