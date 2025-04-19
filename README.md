@@ -4,16 +4,20 @@
 
 
 <div align="center">
+  
 > I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  (BTW)
+
 </div>
 
 <div align="center">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=typhoon1217&layout=compact&theme=nord)](https://github.com/typhoon1217)
+
 </div>
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhoon1217&theme=nord)](https://github.com/typhoon1217)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhoon1217&theme=nord)](https://github.com/typhoon1217)
 
 </div>
 
