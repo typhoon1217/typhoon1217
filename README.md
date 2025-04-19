@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Typhoon1217
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm JungwooShin
 
 > Backend developer crafting practical solutions with Java/Spring expertise and infrastructure optimization skills. Automating the mundane, optimizing the complex.
 
