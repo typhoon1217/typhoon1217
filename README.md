@@ -132,21 +132,6 @@
 
 </div>
 
-## 🏆 Achievements
-
-```text
-🔥 I use Arch BTW
-🐳 Docker enthusiast
-☁️ Infrastructure optimizer
-⚡ Automator of all things repetitive
-```
-
-## 🚀 Current Focus
-
-- Optimizing CI/CD pipelines
-- Mastering containerization strategies
-- Backend performance tuning
-- Learning infrastructure-as-code techniques
 
 ---
 
