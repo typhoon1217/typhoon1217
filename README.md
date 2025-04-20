@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm JungwooShin
 
-> Backend developer crafting practical solutions with Java/Spring expertise and infrastructure optimization skills. Automating the mundane, optimizing the complex.
+> Backend developer love linux and crafting practical solutions.
+> Java/Spring expertise and infrastructure optimization skills.
+> Automating the mundane, optimizing the complex.
 
 
 <div align="center">
@@ -164,7 +166,5 @@
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=typhoon1217&style=flat-square&color=blue" alt="Profile views"/>
-
-<i>"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson</i>
 
 </div>
