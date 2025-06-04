@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm JungwooShin
 
-> Backend developer passionate about Linux and crafting practical solutions. Specialized in Java/Spring with expertise in infrastructure optimization. Dedicated to automating the mundane and optimizing the complex.
+> Backend developer passionate about Linux and crafting practical solutions. Specialized in Java/Spring with expertise in infrastructure optimization. 
 
 
 <div align="center">
