@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 💻 Environment Setup
+##  Environment Setup
 
 | Purpose | Operating System |
 |---------|------------------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages & Core Skills**
 ```
@@ -52,7 +52,7 @@ IntelliJ IDEA • Postman • Notion
 
 ---
 
-## 🔮 Currently Exploring
+##  Exploring
 
 **Infrastructure & DevOps:**
 - Kubernetes
@@ -82,20 +82,7 @@ IntelliJ IDEA • Postman • Notion
 
 ---
 
-## 🎮 When Not Coding
-
-**Gaming Platforms:** Nintendo Switch • Steam • Battle.net  
-**Music:** Apple Music
-
----
-
-## 📈 GitHub Activity
-
 <div align="center">
-
-**Contributions, commits, and code frequency stats would be visible here in your actual GitHub profile**
-
----
 
 *Thanks for visiting my profile!*
 
