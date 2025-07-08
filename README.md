@@ -10,31 +10,43 @@ Backend developer passionate about Linux and crafting practical solutions. Speci
 
 **Languages & Core Skills**
 ```
-Java • Lua • Bash • JavaScript • TypeScript • HTML5 • CSS3 • YAML • Markdown
+Java • Python • Lua • Ruby • Bash • JavaScript • TypeScript • HTML5 • CSS3 • YAML • Markdown
+```
+![Typhoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=typhoon1217&show_icons=true&theme=transparent)
+
+**Backend**
+```
+Spring Framework • RubyOnRails • MyBatis • JWT • Gradle • Maven • Hibernate • Swagger
 ```
 
-**Backend & Databases**
+**DB**
 ```
-Spring Framework • Oracle • JWT • Redis • MySQL • MariaDB
-Gradle • Maven • Hibernate • Swagger
+Milvus • Redis • Postgress • MySQL • MariaDB • Oracle • SQlight • H2
 ```
 
 **DevOps & Infrastructure**
 ```
 Git • GitHub • Nginx • Jenkins • Apache Tomcat • Docker
-Cloudflare • AWS
+Cloudflare • AWS • Promox • Portainer • Let's Encrypt • Vaultwarden
+WireGuard • UFW • DDNS • TrueNAs
 ```
 
-**Frontend & UI**
+**Frontend**
 ```
 Svelte • React • NPM • Vite • Thymeleaf
 Prettier • ESLint
 ```
 
+**Native**
+```
+GTK
+```
+
+
 **Development Tools**
 ```
-Vim • Obsidian • Nextcloud • Zed • VS Code
-IntelliJ IDEA • Postman • Notion
+Vim • Zed • VS Code
+IntelliJ IDEA
 ```
 
 ---
@@ -46,7 +58,6 @@ IntelliJ IDEA • Postman • Notion
 | **Development** | Arch Linux |
 | **Server** | Proxmox + Ubuntu |
 | **Mobile** | Android |
-| **Gaming** | Windows 11 + Nintendo Switch + Steam |
 
 ---
 
