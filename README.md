@@ -13,7 +13,7 @@ Backend developer passionate about Linux and crafting practical solutions. Speci
 Java • Python • Lua • Ruby • Bash
 JavaScript • TypeScript • HTML5 • CSS3 • YAML • Markdown
 ```
-![Typhoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=typhoon1217&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 **Backend**
 ```
