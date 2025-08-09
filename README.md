@@ -37,7 +37,7 @@ Prettier • ESLint
 
 **Native**
 ```
-GTK(pythone)
+GTK(python)
 ```
 
 
