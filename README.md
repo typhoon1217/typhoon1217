@@ -62,9 +62,10 @@ IntelliJ IDEA
 ---
 
 ## Currently Working On
-
-- **Dart** for Flutter development
-- **Kotlin** programming
+- **C** programming
+- **ImgLabellr for annotating img for ML**
+- **PersonalBlog**
+- **ClaudeCode RagMCP**
 
 ---
 
