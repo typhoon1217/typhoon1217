@@ -1,8 +1,6 @@
 # JungwooShin
 
-**Backend Developer** • **Linux Enthusiast** • **Infrastructure Optimizer**
-
-Backend developer passionate about Linux and crafting practical solutions. Specialized in Java/Spring with expertise in infrastructure optimization.
+**Backend Developer** • **Linux Enthusiast**
 
 ---
 
