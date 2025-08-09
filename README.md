@@ -19,7 +19,7 @@ Spring Framework • RubyOnRails • MyBatis • JWT • Gradle • Maven • Hi
 
 **DB**
 ```
-Milvus • Redis • Postgress • MySQL • MariaDB • Oracle • SQlight • H2
+Milvus • Redis • Postgress • MySQL • MariaDB • Oracle • SQlight • chromaDB • H2 
 ```
 
 **DevOps & Infrastructure**
