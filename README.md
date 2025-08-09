@@ -43,7 +43,7 @@ GTK(python)
 
 **Development Tools**
 ```
-Vim • Zed • VS Code
+NeoVim • ClaudeCode •Zed
 IntelliJ IDEA
 ```
 
