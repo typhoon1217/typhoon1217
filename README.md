@@ -60,10 +60,7 @@ IntelliJ IDEA
 ---
 
 ## Currently Working On
-- **C** programming
-- **ImgLabellr for annotating img for ML**
-- **PersonalBlog**
-- **ClaudeCode RagMCP**
+- **Kotlin** adroid, server
 
 ---
 
