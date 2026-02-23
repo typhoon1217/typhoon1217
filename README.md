@@ -8,7 +8,7 @@
 
 **Languages & Core Skills**
 ```
-Java • Kotlin • Python • Lua • Ruby • Bash
+Java • Kotlin • Python • Lua • Ruby • Bash • Go
 JavaScript • TypeScript • HTML5 • CSS3 • YAML • Markdown
 ```
 
