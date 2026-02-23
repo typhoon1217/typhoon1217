@@ -35,11 +35,6 @@ Svelte • React • NPM • Vite • Thymeleaf
 Prettier • ESLint
 ```
 
-**Native**
-```
-GTK(python)
-```
-
 
 **Development Tools**
 ```
