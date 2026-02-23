@@ -38,8 +38,8 @@ Prettier • ESLint
 
 **Development Tools**
 ```
-NeoVim • ClaudeCode •Zed
-IntelliJ IDEA
+NeoVim • ClaudeCode • Zed
+IntelliJ IDEA • Jira
 ```
 
 ---
@@ -85,6 +85,5 @@ IntelliJ IDEA
 **Platforms**
 - Rocky Linux
 - Vercel
-- Jira
 
 ---
