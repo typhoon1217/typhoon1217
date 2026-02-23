@@ -8,7 +8,7 @@
 
 **Languages & Core Skills**
 ```
-Java • Python • Lua • Ruby • Bash
+Java • Kotlin • Python • Lua • Ruby • Bash
 JavaScript • TypeScript • HTML5 • CSS3 • YAML • Markdown
 ```
 
@@ -55,7 +55,7 @@ IntelliJ IDEA
 ---
 
 ## Currently Working On
-- **Kotlin** android, server
+- **MLOPS** vision ai mlops for face recognition and ocr 
 - **Dart** Flutter cross platform gui
 
 ---
