@@ -55,7 +55,7 @@ IntelliJ IDEA
 ---
 
 ## Currently Working On
-- **Kotlin** adroid, server
+- **Kotlin** android, server
 - **Dart** Flutter cross platform gui
 
 ---
